@@ -1,0 +1,12 @@
+# Chatbot Project Dependencies
+
+This file lists the essential Python libraries needed for the chatbot project.
+
+```
+nltk
+numpy
+scikit-learn
+pandas
+tensorflow
+flask
+```
